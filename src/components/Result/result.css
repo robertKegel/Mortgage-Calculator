@@ -1,0 +1,17 @@
+#results {
+    position: fixed;
+    bottom: 0;
+    background: linear-gradient(180deg, green, white);
+    width: 100%;
+}
+
+h4 {
+    text-align: center;
+    margin: 5px;
+}
+
+.resultsRow {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}

@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Mortgage Calculator",
+  "name": "Mortgage Calculator by iamrobertkegel.com",
   "icons": [
     {
       "src": "favicon.ico",
